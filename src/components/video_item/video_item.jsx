@@ -1,6 +1,7 @@
 import React from "react";
 import styles from "./video_item.module.css";
 
+//video>item>snippet
 const VideoItem = ({ video: { snippet } }) => (
   <li className={styles.container}>
     <div className={styles.video}>
