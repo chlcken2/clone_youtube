@@ -1,14 +1,15 @@
-.header {
-  display: flex;
-  height: 4rem;
-  padding: 0.5em 1em;
-  background: black;
-  color: white;
-}
 .img {
   height: 100%;
   padding: 0.5em, 0.2em;
 }
+.header {
+  display: flex;
+  height: 4rem;
+  padding: 0.8em 1em;
+  background: black;
+  color: white;
+}
+
 .logo {
   display: flex;
   align-items: center;
@@ -22,11 +23,11 @@
 }
 
 .button {
-  background-color: darkgray;
+  background-color: darkgrey;
   outline: 0;
 }
 
 .buttonImg {
   height: 100%;
-  padding: 0.5em, 0.2em;
+  padding: 0.5em 0.2em;
 }
